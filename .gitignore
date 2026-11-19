@@ -1,0 +1,14 @@
+# Compilation
+backend/target/
+frontend/node_modules/
+frontend/dist/
+frontend/tsconfig.tsbuildinfo
+# Donnees locales de l'application (base, documents, config)
+app/data/
+app/*.db*
+app/mercure.config.json
+app/erp.config.json
+# Divers
+*.log
+.DS_Store
+Thumbs.db
